@@ -33,11 +33,22 @@ Mozilla Study Groups are for everyone - we abide by a [set of rules](https://www
 
 To contribute to this repository, you will need to set up a [GitHub](https://github.com/) account, it's free!
 
+A good place to start is with beginner issues. (link to issues labeled "beginner")
+
 #### Where do I ask questions?
+
 If you have a question about Mozilla Study Groups, you can submit an issue (click on 'Issues' in the sidebar on the right) or pose your question in the [Study Group Gitter room](https://gitter.im/mozillascience/studyGroup).
 
 #### How do I submit a pull request?
 
+GitHub has put together useful information on [initating, reviewing, and submitting a pull request](https://help.github.com/articles/using-pull-requests/).
+
+Please write clear comments for your commits so others can understand the changes you've made.  
+
 #### What labels do I use?
+
+beginner - good first contributions for beginners to the project
+help - issues for which you'd like assistance
+...
 
 Thank you again for your contributions! :heart: :heartpulse: :revolving_hearts:
