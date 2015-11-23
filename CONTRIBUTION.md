@@ -47,8 +47,8 @@ Please write clear comments for your commits so others can understand the change
 
 #### What labels do I use?
 
-beginner - good first contributions for beginners to the project
-help - issues for which you'd like assistance
+* beginner - good first contributions for beginners to the project
+* help - issues for which you'd like assistance
 ...
 
 Thank you again for your contributions! :heart: :heartpulse: :revolving_hearts:
