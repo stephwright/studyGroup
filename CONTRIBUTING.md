@@ -3,17 +3,17 @@
 First, thank you! This repository exists because of the work of willing contributors like you and we appreciate your help. So again, thank you. You're a :star2:.
 
 #### Table Of Contents
-[What do I need to know to get started?] (#what-do-i-need-to-know-to-get-started)
+[Getting Started] (#getting-started)
   * [What is this repository about?](#what-is-this-repository-about)
   * [How do I join the community?](#how-do-i-join-the-community)
   * [What is the Code of Conduct?](#what-is-the-code-of-conduct)
 
-[How Can I Contribute?](#how-can-i-contribute)
+[Ways to Contribute?](#ways-to-contribute)
   * [Where do I ask questions?](#where-do-i-ask-questions)
   * [How do I submit a pull request?](#how-do-i-submit-a-pull-request)
   * [What labels do I use?](#what-labels-do-i-use)
 
-### What do I need to know to get started?
+### GETTING STARTED
 
 #### What is this repository about?
 
@@ -29,7 +29,7 @@ There are a few things you can do to learn more and decide if you want to join o
 
 Mozilla Study Groups are for everyone - we abide by a [set of rules](https://www.mozillascience.org/code-of-conduct/) that require everyone be treated with respect. Help us make a space where everyone feels welcome, and we'll all have a better time!  Please report unacceptable behavior to XXXXXXX.
 
-### How can I contribute?
+### WAYS TO CONTRIBUTE
 
 To contribute to this repository, you will need to set up a [GitHub](https://github.com/) account, it's free!
 
