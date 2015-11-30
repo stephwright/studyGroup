@@ -8,7 +8,7 @@ First, thank you! This repository exists because of the work of willing contribu
   * [How do I join the community?](#how-do-i-join-the-community)
   * [What is the Code of Conduct?](#what-is-the-code-of-conduct)
 
-[Ways to Contribute?](#ways-to-contribute)
+[Ways to Contribute](#ways-to-contribute)
   * [Where do I ask questions?](#where-do-i-ask-questions)
   * [How do I submit a pull request?](#how-do-i-submit-a-pull-request)
   * [What labels do I use?](#what-labels-do-i-use)
