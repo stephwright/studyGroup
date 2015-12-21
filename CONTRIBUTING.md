@@ -1,6 +1,6 @@
 #Contributing to the Study Group Repository
 
-First, thank you! This repository exists because of the work of willing contributors like you and we appreciate your help. So again, thank you. You're a :star2:.
+First, thank you! This repository exists because of the work of willing contributors like you and we appreciate your help. So again, thank you. You're a :star2:. (insert link to instructional video such as "hello and welcome to the study group".  Here's an [example](https://www.youtube.com/watch?v=8j0UDiN7my4).)
 
 #### Table Of Contents
 [Getting Started] (#getting-started)
@@ -17,7 +17,9 @@ First, thank you! This repository exists because of the work of willing contribu
 
 #### What is this repository about?
 
-This repository provides guidance and resources for starting your own Mozilla Study Group.  Here you will find the templates for setting up websites, events and creating lessons.
+This repository provides guidance and resources for starting your own Mozilla Study Group. Mozilla Study Groups are fun, informal meetups of your friends and colleagues from around your local institution or town to share skills, stories and ideas on using code for research. The goal is to create a friendly, no-pressure environment where people can share their work, ask for help on a coding problem, and learn and work together with their peers. 
+
+Here you will find the templates for setting up websites, events and creating lessons.
 
 #### How do I join the community?
 
@@ -27,21 +29,24 @@ There are a few things you can do to learn more and decide if you want to join o
 
 #### What is the Code of Conduct?
 
-Mozilla Study Groups are for everyone - we abide by a [set of rules](https://www.mozillascience.org/code-of-conduct/) that require everyone be treated with respect. Help us make a space where everyone feels welcome, and we'll all have a better time!  Please report unacceptable behavior to XXXXXXX.
+Mozilla Study Groups are for everyone - we abide by a [set of rules](https://www.mozillascience.org/code-of-conduct/) that require everyone be treated with respect. Help us make a space where everyone feels welcome, and we'll all have a better time!
 
 ### WAYS TO CONTRIBUTE
 
 To contribute to this repository, you will need to set up a [GitHub](https://github.com/) account, it's free!
 
-A good place to start is with beginner issues. (link to issues labeled "beginner")
+- Work on an issue. A good place to start is with beginner issues. (link to issues labeled "beginner")  
+- Submit an idea or start a new discussion by creating a new issue.  See section on [labels](#what-labels-do-i-use) below.
+- Contribute a lesson. (insert link on how to contribute a lesson)
 
 #### Where do I ask questions?
 
-If you have a question about Mozilla Study Groups, you can submit an issue (click on 'Issues' in the sidebar on the right) or pose your question in the [Study Group Gitter room](https://gitter.im/mozillascience/studyGroup).
+If you have any questions, feel free to email <insert primary email contact here>.
 
 #### How do I submit a pull request?
 
-GitHub has put together useful information on [initating, reviewing, and submitting a pull request](https://help.github.com/articles/using-pull-requests/).
+Pull requests represent changes an author would like to make to a repository such as adding, modifying or delete files.  They are also used to resolve Issues.  We have created a step-by-step guide to how to submit pull requests <insert link>
+**Note: Here is an [example from UofTCoders](https://github.com/UofTCoders/studyGroup/wiki/Contributing-a-lesson)
 
 Please write clear comments for your commits so others can understand the changes you've made.  
 
